@@ -125,5 +125,5 @@ Avg Delivery Rating = AVERAGE('Orders Data'[Delivery Rating])
 ## Author
 
 **Tolulope Akinrombi**
-LinkedIn: _add your profile link here_# Resturant-Data-Analysis
+LinkedIn: _https://www.linkedin.com/in/tolulope-akinrombi-393b94400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcgFZ3hfjTeeWa9HFGRgW%2FA%3D%3D_# Resturant-Data-Analysis
 Power BI dashboard analyzing 500 restaurant orders: cleaned with Power Query, modelled with DAX, and used to find lunch-peak patterns, top cuisines, zone performance and delivery gaps.
